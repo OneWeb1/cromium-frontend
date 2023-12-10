@@ -1,0 +1,13 @@
+{
+	"player": {
+		"name": "player",
+		"avatar": "rgba(123, 43, 65, 1)",
+		"games": [
+			{
+				"betString": "1 020.00 ₽",
+				"x": "1.43x",
+				"date": { "hours": 13, "minutes": 24, "seconds": 16 }
+			}
+		]
+	}
+}

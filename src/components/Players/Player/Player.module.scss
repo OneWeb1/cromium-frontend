@@ -1,0 +1,134 @@
+.player {
+	width: 100%;
+	height: 42px;
+	background: linear-gradient(90deg, rgb(28, 22, 56) 0%, rgb(38, 31, 77) 100%);
+	border-radius: 8px;
+	margin-bottom: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	color: #fff;
+	padding: 0px 5px;
+	font-family: monospace;
+	user-select: none;
+	border: 1px solid transparent;
+	transition: 0.2s;
+	cursor: pointer;
+
+	&:hover {
+		border: 1px solid rgba(255, 166, 0, 0.3);
+	}
+
+	.leftWrapper {
+		display: flex;
+		align-items: center;
+	}
+
+	.arrow,
+	.avatar,
+	.dots {
+		width: 30px;
+		height: 30px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 16px;
+	}
+
+	.avatar {
+		border-radius: 8px;
+		font-weight: 500;
+		filter: brightness(0.9);
+		color: #fff;
+		cursor: pointer;
+		transition: 0.2s;
+
+		.avatarColor {
+			color: #fff;
+
+			&:visited {
+				color: #fff;
+			}
+		}
+	}
+
+	.avatar:hover {
+		filter: brightness(1);
+		transform: scale(0.95);
+	}
+
+	.arrow {
+		font-size: 24px;
+		border-radius: 8px;
+		transition: 0.2s;
+	}
+
+	.arrow:hover {
+		font-size: 32px;
+	}
+
+	.name {
+		max-width: 120px;
+		flex-wrap: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		margin-left: 5px;
+		font-size: 16px;
+		color: rgb(148, 138, 197);
+	}
+
+	.link {
+		text-decoration: none;
+		color: rgb(148, 138, 197);
+		white-space: nowrap;
+	}
+
+	.link:visited {
+		color: rgb(148, 138, 197);
+	}
+
+	.name:hover {
+		text-decoration: underline;
+	}
+
+	.rightWrapper {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		.balanceWrapper {
+			font-size: 12px;
+			display: flex;
+			align-items: center;
+			// color: rgb(148, 138, 197);
+			color: #fff;
+			margin-right: 10px;
+		}
+
+		.balance {
+			margin-left: 5px;
+		}
+
+		.dots {
+			width: 30px;
+			height: 30px;
+			transition: 0.2s;
+		}
+
+		.dots:hover {
+			transform: scale(1.2) translateX(1px);
+			border-radius: 50px;
+		}
+
+		&:hover {
+			filter: brightness(0.95);
+			transform: scale(0.99);
+		}
+	}
+}
+
+.flex {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

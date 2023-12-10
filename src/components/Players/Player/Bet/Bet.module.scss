@@ -1,0 +1,64 @@
+.bet {
+	width: 100%;
+	height: 40px;
+	background: linear-gradient(90deg, rgb(28, 22, 56) 0%, rgb(38, 31, 77) 100%);
+	border-radius: 8px;
+	margin-bottom: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	color: #fff;
+	padding: 0px 10px;
+	font-family: monospace;
+	user-select: none;
+	transition: 0.2s;
+	font-size: 12px;
+
+	.date {
+		color: rgb(148, 138, 197);
+		flex: 0 1 auto;
+		margin-right: 10px;
+	}
+
+	.rightWrapper {
+		flex: 1 1 auto;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.sumBet {
+		flex: 0 1 33.333%;
+		text-align: center;
+	}
+
+	.coefficientWrapper {
+		flex: 0 1 33.333%;
+		display: flex;
+		justify-content: center;
+		margin-left: 20px;
+	}
+
+	.coefficient {
+		padding: 7px 12px;
+		border-radius: 8px;
+		background-color: rgb(62, 91, 194);
+	}
+
+	.sumWinWrapper {
+		flex: 0 1 33.333%;
+	}
+
+	.sumWin {
+		max-width: 120px;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		text-wrap: nowrap;
+		text-align: right;
+	}
+
+	&:hover {
+		filter: brightness(0.95);
+		transform: scale(0.99);
+	}
+}

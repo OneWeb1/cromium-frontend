@@ -1,0 +1,2066 @@
+{
+	"52022": [
+		{
+			"betNumber": 1020,
+			"betString": "1 020.00 ₽",
+			"x": "1.25x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 1020,
+			"betString": "1 020.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 1020,
+			"betString": "1 020.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 1020,
+			"betString": "1 020.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 1020,
+			"betString": "1 020.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 1520,
+			"betString": "1 520.00 ₽",
+			"x": "2.71x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 1020,
+			"betString": "1 020.00 ₽",
+			"x": "2.80x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		}
+	],
+	"5870816": [
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 20 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		}
+	],
+	"8292165": [
+		{
+			"betNumber": 3000,
+			"betString": "3 000.00 ₽",
+			"x": "1.64x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 3000,
+			"betString": "3 000.00 ₽",
+			"x": "1.53x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		}
+	],
+	"8530483": [
+		{
+			"betNumber": 1167,
+			"betString": "1 167.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 425,
+			"betString": "425.46 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		}
+	],
+	"8807077": [
+		{
+			"betNumber": 538,
+			"betString": "538.08 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 538,
+			"betString": "538.08 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 645,
+			"betString": "645.49 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		}
+	],
+	"10980618": [
+		{
+			"betNumber": 1076,
+			"betString": "1 076.17 ₽",
+			"x": "1.50x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 538,
+			"betString": "538.08 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 538,
+			"betString": "538.08 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		},
+		{
+			"betNumber": 645,
+			"betString": "645.49 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		},
+		{
+			"betNumber": 645,
+			"betString": "645.49 ₽",
+			"x": "2.00x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"11163836": [
+		{
+			"betNumber": 1076,
+			"betString": "1 076.17 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 2153,
+			"betString": "2 153.38 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		},
+		{
+			"betNumber": 2153,
+			"betString": "2 153.38 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"11885443": [
+		{
+			"betNumber": 10000,
+			"betString": "10 000.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 6000,
+			"betString": "6 000.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		}
+	],
+	"11925756": [
+		{
+			"betNumber": 3466,
+			"betString": "3 466.97 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 2724,
+			"betString": "2 724.05 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 3466,
+			"betString": "3 466.27 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 1646,
+			"betString": "1 646.58 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 1312,
+			"betString": "1 312.89 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 677,
+			"betString": "677.82 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		}
+	],
+	"13367046": [
+		{
+			"betNumber": 920,
+			"betString": "920.79 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 920,
+			"betString": "920.79 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 459,
+			"betString": "459.87 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 920,
+			"betString": "920.79 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 459,
+			"betString": "459.87 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 920,
+			"betString": "920.79 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 459,
+			"betString": "459.87 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		}
+	],
+	"15617564": [
+		{
+			"betNumber": 464,
+			"betString": "464.05 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 464,
+			"betString": "464.05 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 464,
+			"betString": "464.05 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 464,
+			"betString": "464.05 ₽",
+			"x": "2.76x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 464,
+			"betString": "464.05 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 464,
+			"betString": "464.05 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 464,
+			"betString": "464.05 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 394,
+			"betString": "394.18 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		}
+	],
+	"16015896": [
+		{
+			"betNumber": 699,
+			"betString": "699.72 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 1237,
+			"betString": "1 237.80 ₽",
+			"x": "1.56x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 627,
+			"betString": "627.77 ₽",
+			"x": "2.03x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 602,
+			"betString": "602.74 ₽",
+			"x": "3.11x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		}
+	],
+	"16907296": [
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		}
+	],
+	"19862568": [
+		{
+			"betNumber": 1636,
+			"betString": "1 636.15 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		}
+	],
+	"20473228": [
+		{
+			"betNumber": 431,
+			"betString": "431.72 ₽",
+			"x": "2.40x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 473,
+			"betString": "473.43 ₽",
+			"x": "1.93x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		}
+	],
+	"22833528": [
+		{
+			"betNumber": 280,
+			"betString": "280.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 280,
+			"betString": "280.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 360,
+			"betString": "360.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 460,
+			"betString": "460.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 340,
+			"betString": "340.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 460,
+			"betString": "460.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 660,
+			"betString": "660.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 440,
+			"betString": "440.00 ₽",
+			"x": "3.33x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		}
+	],
+	"22908233": [
+		{
+			"betNumber": 790,
+			"betString": "790.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"23232202": [
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		}
+	],
+	"25485076": [
+		{
+			"betNumber": 340,
+			"betString": "340.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		}
+	],
+	"29509503": [
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "2.98x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 1042,
+			"betString": "1 042.80 ₽",
+			"x": "11.41x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		}
+	],
+	"29722414": [
+		{
+			"betNumber": 520,
+			"betString": "520.00 ₽",
+			"x": "2.26x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 520,
+			"betString": "520.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 520,
+			"betString": "520.00 ₽",
+			"x": "2.14x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		}
+	],
+	"33981397": [
+		{
+			"betNumber": 1000,
+			"betString": "1 000.00 ₽",
+			"x": "1.03x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		}
+	],
+	"34894709": [
+		{
+			"betNumber": 7019,
+			"betString": "7 019.09 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		},
+		{
+			"betNumber": 6481,
+			"betString": "6 481.00 ₽",
+			"x": "2.09x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"36143852": [
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		}
+	],
+	"38460373": [
+		{
+			"betNumber": 299,
+			"betString": "299.28 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 299,
+			"betString": "299.28 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 299,
+			"betString": "299.28 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		}
+	],
+	"50314979": [
+		{
+			"betNumber": 2250,
+			"betString": "2 250.55 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.55 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "2.18x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "3.11x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "2.71x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "2.22x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "5.10x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "3.06x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		},
+		{
+			"betNumber": 4500,
+			"betString": "4 500.73 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		},
+		{
+			"betNumber": 2250,
+			"betString": "2 250.36 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"54556978": [
+		{
+			"betNumber": 344,
+			"betString": "344.12 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 344,
+			"betString": "344.12 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 344,
+			"betString": "344.12 ₽",
+			"x": "1.09x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 344,
+			"betString": "344.12 ₽",
+			"x": "1.11x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		}
+	],
+	"OuaedM": [
+		{
+			"betNumber": 1486,
+			"betString": "1 486.22 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 1113,
+			"betString": "1 113.71 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 1857,
+			"betString": "1 857.23 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 928,
+			"betString": "928.09 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		},
+		{
+			"betNumber": 928,
+			"betString": "928.09 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"Permyakoff.S": [
+		{
+			"betNumber": 1000,
+			"betString": "1 000.00 ₽",
+			"x": "1.10x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 1000,
+			"betString": "1 000.00 ₽",
+			"x": "1.10x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 1500,
+			"betString": "1 500.00 ₽",
+			"x": "1.10x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 1500,
+			"betString": "1 500.00 ₽",
+			"x": "1.10x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 1500,
+			"betString": "1 500.00 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		}
+	],
+	"BIGXBET": [
+		{
+			"betNumber": 775,
+			"betString": "775.22 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 775,
+			"betString": "775.22 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 774,
+			"betString": "774.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 774,
+			"betString": "774.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "20.93x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "1.62x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		}
+	],
+	"Данил Ким": [
+		{
+			"betNumber": 649,
+			"betString": "649.46 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 693,
+			"betString": "693.46 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 693,
+			"betString": "693.46 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 693,
+			"betString": "693.46 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 693,
+			"betString": "693.46 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 693,
+			"betString": "693.46 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 693,
+			"betString": "693.46 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		}
+	],
+	"DenBro": [
+		{
+			"betNumber": 520,
+			"betString": "520.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 330,
+			"betString": "330.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 520,
+			"betString": "520.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		}
+	],
+	"Нурдин Малдыбаев": [
+		{
+			"betNumber": 508,
+			"betString": "508.36 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 507,
+			"betString": "507.84 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 507,
+			"betString": "507.84 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 507,
+			"betString": "507.84 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 507,
+			"betString": "507.84 ₽",
+			"x": "3.25x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 507,
+			"betString": "507.84 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 507,
+			"betString": "507.84 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 507,
+			"betString": "507.84 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 507,
+			"betString": "507.84 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		}
+	],
+	"Dior": [
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "1.12x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 5000,
+			"betString": "5 000.00 ₽",
+			"x": "1.49x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "2.05x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "2.95x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 5000,
+			"betString": "5 000.00 ₽",
+			"x": "1.44x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"koUqAN": [
+		{
+			"betNumber": 452,
+			"betString": "452.21 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 989,
+			"betString": "989.62 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 839,
+			"betString": "839.45 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 344,
+			"betString": "344.12 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 344,
+			"betString": "344.12 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 526,
+			"betString": "526.61 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 257,
+			"betString": "257.57 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 483,
+			"betString": "483.86 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 483,
+			"betString": "483.86 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 483,
+			"betString": "483.86 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 483,
+			"betString": "483.86 ₽",
+			"x": "2.26x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 573,
+			"betString": "573.54 ₽",
+			"x": "1.85x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 573,
+			"betString": "573.54 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		}
+	],
+	"Mirtunjay": [
+		{
+			"betNumber": 323,
+			"betString": "323.01 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		}
+	],
+	"Yeviekony borget": [
+		{
+			"betNumber": 322,
+			"betString": "322.58 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.58 ₽",
+			"x": "1.98x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "2.38x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "3.00x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		}
+	],
+	"eEeGsD": [
+		{
+			"betNumber": 321,
+			"betString": "321.29 ₽",
+			"x": "1.22x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		},
+		{
+			"betNumber": 321,
+			"betString": "321.18 ₽",
+			"x": "1.06x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		}
+	],
+	"Плешу Михаела": [
+		{
+			"betNumber": 320,
+			"betString": "320.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 8 }
+		}
+	],
+	"Русский Вадя": [
+		{
+			"betNumber": 1000,
+			"betString": "1 000.00 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 1000,
+			"betString": "1 000.00 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		}
+	],
+	"Isaias": [
+		{
+			"betNumber": 898,
+			"betString": "898.89 ₽",
+			"x": "1.08x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		},
+		{
+			"betNumber": 898,
+			"betString": "898.89 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 898,
+			"betString": "898.89 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 449,
+			"betString": "449.45 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 583,
+			"betString": "583.97 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 673,
+			"betString": "673.65 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		}
+	],
+	"Artem": [
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "1.22x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		}
+	],
+	"Ilyas Tuktarov": [
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		}
+	],
+	"УЛАН АБДИЕВ": [
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 19 }
+		}
+	],
+	"Rajesh": [
+		{
+			"betNumber": 774,
+			"betString": "774.80 ₽",
+			"x": "1.50x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 645,
+			"betString": "645.49 ₽",
+			"x": "1.50x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		}
+	],
+	"Mohit": [
+		{
+			"betNumber": 526,
+			"betString": "526.61 ₽",
+			"x": "2.18x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 505,
+			"betString": "505.76 ₽",
+			"x": "2.46x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 720,
+			"betString": "720.57 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		},
+		{
+			"betNumber": 1259,
+			"betString": "1 259.70 ₽",
+			"x": "2.05x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"Boss ������": [
+		{
+			"betNumber": 430,
+			"betString": "430.68 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		},
+		{
+			"betNumber": 630,
+			"betString": "630.89 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 2044,
+			"betString": "2 044.93 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 538,
+			"betString": "538.08 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 538,
+			"betString": "538.08 ₽",
+			"x": "3.64x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 2691,
+			"betString": "2 691.47 ₽",
+			"x": "1.74x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 861,
+			"betString": "861.35 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 861,
+			"betString": "861.35 ₽",
+			"x": "2.38x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 968,
+			"betString": "968.76 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		},
+		{
+			"betNumber": 1076,
+			"betString": "1 076.17 ₽",
+			"x": "2.00x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"Ouattara tenin": [
+		{
+			"betNumber": 374,
+			"betString": "374.37 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 55, "seconds": 41 }
+		}
+	],
+	"Валера Симонов": [
+		{
+			"betNumber": 1215,
+			"betString": "1 215.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 1215,
+			"betString": "1 215.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 1215,
+			"betString": "1 215.80 ₽",
+			"x": "1.44x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 1215,
+			"betString": "1 215.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 1020,
+			"betString": "1 020.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 1215,
+			"betString": "1 215.80 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 1020,
+			"betString": "1 020.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 1215,
+			"betString": "1 215.80 ₽",
+			"x": "1.44x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 1520,
+			"betString": "1 520.00 ₽",
+			"x": "1.35x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 1215,
+			"betString": "1 215.80 ₽",
+			"x": "1.49x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 1520,
+			"betString": "1 520.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 1715,
+			"betString": "1 715.80 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		},
+		{
+			"betNumber": 1715,
+			"betString": "1 715.80 ₽",
+			"x": "1.73x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		},
+		{
+			"betNumber": 1520,
+			"betString": "1 520.00 ₽",
+			"x": "1.82x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"Jaydeep": [
+		{
+			"betNumber": 794,
+			"betString": "794.61 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 794,
+			"betString": "794.61 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		}
+	],
+	"Daredevil": [
+		{
+			"betNumber": 320,
+			"betString": "320.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 320,
+			"betString": "320.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 500,
+			"betString": "500.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 600,
+			"betString": "600.00 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		}
+	],
+	"Sad.": [
+		{
+			"betNumber": 270,
+			"betString": "270.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 21 }
+		},
+		{
+			"betNumber": 270,
+			"betString": "270.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		}
+	],
+	"Ajramjon": [
+		{
+			"betNumber": 451,
+			"betString": "451.53 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 24 }
+		}
+	],
+	"Sinha": [
+		{
+			"betNumber": 667,
+			"betString": "667.39 ₽",
+			"x": "1.22x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		}
+	],
+	"Vivek Sharma": [
+		{
+			"betNumber": 602,
+			"betString": "602.74 ₽",
+			"x": "2.22x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 602,
+			"betString": "602.74 ₽",
+			"x": "1.07x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 602,
+			"betString": "602.74 ₽",
+			"x": "1.22x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 602,
+			"betString": "602.74 ₽",
+			"x": "1.29x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		}
+	],
+	"Алексей": [
+		{
+			"betNumber": 300,
+			"betString": "300.00 ₽",
+			"x": "1.79x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		}
+	],
+	"Давид Мартиросян": [
+		{
+			"betNumber": 280,
+			"betString": "280.00 ₽",
+			"x": "1.20x",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		},
+		{
+			"betNumber": 330,
+			"betString": "330.00 ₽",
+			"x": "1.27x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 410,
+			"betString": "410.00 ₽",
+			"x": "1.14x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		}
+	],
+	"Suraj": [
+		{
+			"betNumber": 269,
+			"betString": "269.04 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 56, "seconds": 49 }
+		}
+	],
+	"Shivam Chaudhary": [
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "26.68x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "9.85x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		}
+	],
+	"Abid007": [
+		{
+			"betNumber": 344,
+			"betString": "344.12 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 2 }
+		},
+		{
+			"betNumber": 344,
+			"betString": "344.12 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		}
+	],
+	"Друг Ночи": [
+		{
+			"betNumber": 2000,
+			"betString": "2 000.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 2000,
+			"betString": "2 000.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		},
+		{
+			"betNumber": 1816,
+			"betString": "1 816.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 2000,
+			"betString": "2 000.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 632,
+			"betString": "632.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 2000,
+			"betString": "2 000.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	],
+	"Kaushal": [
+		{
+			"betNumber": 322,
+			"betString": "322.23 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 17 }
+		}
+	],
+	"Анатолий": [
+		{
+			"betNumber": 3000,
+			"betString": "3 000.00 ₽",
+			"x": "1.20x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 3000,
+			"betString": "3 000.00 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		}
+	],
+	"Bobir": [
+		{
+			"betNumber": 1000,
+			"betString": "1 000.00 ₽",
+			"x": "1.10x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 1000,
+			"betString": "1 000.00 ₽",
+			"x": "1.10x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		}
+	],
+	"Tanish": [
+		{
+			"betNumber": 914,
+			"betString": "914.54 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		}
+	],
+	"Жолборскан": [
+		{
+			"betNumber": 620,
+			"betString": "620.00 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 556,
+			"betString": "556.00 ₽",
+			"x": "1.30x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 620,
+			"betString": "620.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 620,
+			"betString": "620.00 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		}
+	],
+	"João Victor": [
+		{
+			"betNumber": 556,
+			"betString": "556.86 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		},
+		{
+			"betNumber": 928,
+			"betString": "928.09 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 1485,
+			"betString": "1 485.99 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		}
+	],
+	"Antony": [
+		{
+			"betNumber": 449,
+			"betString": "449.45 ₽",
+			"x": "1.50x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		}
+	],
+	"Андрей": [
+		{
+			"betNumber": 400,
+			"betString": "400.00 ₽",
+			"x": "1.50x",
+			"date": { "hours": 5, "minutes": 57, "seconds": 35 }
+		}
+	],
+	"Sameer chawla": [
+		{
+			"betNumber": 10766,
+			"betString": "10 766.91 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 2154,
+			"betString": "2 154.43 ₽",
+			"x": "2.00x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		}
+	],
+	"Manoj": [
+		{
+			"betNumber": 774,
+			"betString": "774.80 ₽",
+			"x": "2.14x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "1.83x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 774,
+			"betString": "774.80 ₽",
+			"x": "1.49x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		},
+		{
+			"betNumber": 558,
+			"betString": "558.94 ₽",
+			"x": "1.64x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 14 }
+		}
+	],
+	"Mahabub Alam": [
+		{
+			"betNumber": 451,
+			"betString": "451.53 ₽",
+			"x": "2.16x",
+			"date": { "hours": 5, "minutes": 58, "seconds": 3 }
+		},
+		{
+			"betNumber": 451,
+			"betString": "451.53 ₽",
+			"x": "0",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		}
+	],
+	"Prince Jalwal": [
+		{
+			"betNumber": 667,
+			"betString": "667.39 ₽",
+			"x": "1.21x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 30 }
+		},
+		{
+			"betNumber": 667,
+			"betString": "667.39 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		}
+	],
+	"Matheus": [
+		{
+			"betNumber": 942,
+			"betString": "942.69 ₽",
+			"x": "1.20x",
+			"date": { "hours": 5, "minutes": 59, "seconds": 55 }
+		},
+		{
+			"betNumber": 942,
+			"betString": "942.69 ₽",
+			"x": "0",
+			"date": { "hours": 6, "minutes": 0, "seconds": 6 }
+		}
+	],
+	"Palkesh": [
+		{
+			"betNumber": 1108,
+			"betString": "1 108.50 ₽",
+			"x": "1.18x",
+			"date": { "hours": 6, "minutes": 0, "seconds": 27 }
+		}
+	]
+}
