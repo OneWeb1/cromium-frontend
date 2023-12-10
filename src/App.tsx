@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Home from './pages/Home';
 import './App.scss';
-import Profile from './components/Profile';
+// import Profile from './components/Profile';
 import NotFound from './pages/NotFound';
 import Coefficients from './pages/Сoefficients';
 
