@@ -16,7 +16,7 @@ export const fetchPlayers = (
 	searchValue: string,
 	callback: (data: IPlayerData, sorted: string[]) => void,
 ) => {
-	fetch('https://lucky-cromium-gukfi.run-eu-central1.goorm.site/players')
+	fetch('https://lucky-cromium-cfltw.run-eu-central1.goorm.site/players')
 		.then(res => res.json())
 		.then(data => {
 			setTimeout(() => {

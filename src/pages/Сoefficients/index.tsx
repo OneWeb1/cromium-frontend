@@ -7,7 +7,7 @@ import styles from './Coefficients.module.scss';
 const Coefficients = () => {
 	const [coefficients, setCoefficients] = useState<string[]>([]);
 	useEffect(() => {
-		fetch('https://lucky-cromium-gukfi.run-eu-central1.goorm.site/coefficients')
+		fetch('https://lucky-cromium-cfltw.run-eu-central1.goorm.site/coefficients')
 			.then(res => res.json())
 			.then((data: string[]) => {
 				setCoefficients(data);
